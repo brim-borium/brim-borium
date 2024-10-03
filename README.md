@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **giphy sdk for flutter**
 
-- 🌱 I’m currently learning more about **melos, mason and scaling flutter projects properly** and **generative ai**
+- 🌱 I’m currently learning more about **mason and scaling flutter projects properly** and **generative ai** and it's viable use cases
 
 - 👯 I’m looking to collaborate on [spotify sdk for flutter](https://github.com/brim-borium/spotify_sdk)
 
